@@ -4,10 +4,10 @@ import random as rd
 word_list = ["apple", "banana", "mango", "orange", "strawberry" ]
 
 def random_fruit():
-   for fruits in word_list:
-     print(fruits)
+  for fruits in word_list:
+     #print("list of fruits is:",fruits)
      word = rd.choice(word_list)
-     print(word)
+  return word 
 
 
 def guess_alphabet():
@@ -19,4 +19,4 @@ def guess_alphabet():
 
 
 random_fruit()
-guess_alphabet()
+#guess_alphabet()
