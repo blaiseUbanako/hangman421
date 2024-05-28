@@ -4,6 +4,7 @@
 ## Description
 Hangman is a classic game in which a player thinks of a word and the other player tries to guess that word within a certain amount of attempts.
 This is an implementation of the Hangman game, where the computer thinks of a word and the user tries to guess it. 
+My experience going through this project has been invaluable and I've learnt to always write down pseudo code  before begining to solve any programming challenges
 
 ## Installation Instructions
 ### Required software
