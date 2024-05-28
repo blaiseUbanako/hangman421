@@ -2,15 +2,15 @@ from milestone_2 import random_fruit
 
 
 
-selected_fruit = random_fruit()
+random_word = random_fruit()
 
 def check_guess(guess):
   guess = input("Guess an alphabet: ")
   lower_case = guess.lower()
-  if lower_case in selected_fruit:
-      print(lower_case, "is in", selected_fruit)
+  if lower_case in random_word:
+      print(lower_case, "is in", random_word)
   else:
-    print(lower_case, "is not in", selected_fruit)
+    print(lower_case, "is not in", random_word)
 
 
 def ask_for_input():
