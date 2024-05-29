@@ -1,4 +1,4 @@
-from milestone_2 import random_fruit
+from hangman.milestones.milestone_2 import random_fruit
 
 
 

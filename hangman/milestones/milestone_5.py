@@ -1,4 +1,4 @@
-from milestone_4 import Hangman
+from hangman.milestones.milestone_4 import Hangman
 import random
 
 def play_game(word_list):

@@ -9,23 +9,42 @@ My experience going through this project has been invaluable and I've learnt to 
 ## Installation Instructions
 ### Required software
 The following software is required for this game:
+
 1.Visual Studio Code
+
 2.Python
+
 3.git bash
+
 ### Installation 
+
 1.Open git bash 
+
 2.Go to your desired directory 
+
 3.Type: git clone followed by the following url "https://github.com/blaiseUbanako/hangman421.git"
+
 4.Once successfully cloned, open visual studio code
+
 5.Navigate to the clonned project directory
+
 6.Drag and drop project folder into Visual Studio code editor
+
 7.Navigate to hangman-->milestone_5.py and open file
-7.Run the code using the play button on VS code to begin the game. 
-10.The user will be prommpted to guess a letter
+
+8.Run the code using the play button on VS code to begin the game. 
+
+9.The user will be prommpted to guess a letter
 
 ## File Structure
-1.Navigate to hangman-->milestone_5.py and open file
-
+ +---hangman
+    +---milestones
+       +---milestone_2.py
+       +---milestone_3.py
+       +---milestone_4.py
+       +---milestone_5.py
+    +---hangman_game.py
+    
 ## Licence Information
 NA
 

@@ -19,4 +19,4 @@ def guess_alphabet():
 
 
 random_fruit()
-#guess_alphabet()
+guess_alphabet()

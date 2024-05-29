@@ -1,4 +1,4 @@
-from milestone_2 import word_list
+from hangman.milestones.milestone_2 import word_list
 import random
 
 
@@ -7,7 +7,7 @@ class Hangman:
         self.num_lives = num_lives
         self.word_list = word_list
         self.word = random.choice(word_list)
-        self.word_guessed = ["_" for letter in self.word]  #"_" for letter in self.word is a comprehension
+        self.word_guessed = ["_" for letter in self.word]  
         self.num_letters = len(set(self.word))
         self.list_of_guesses = []
 
