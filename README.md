@@ -22,7 +22,7 @@ The following software is required for this game:
 
 2.Go to your desired directory 
 
-3.Type: git clone followed by the following url ~https://github.com/blaiseUbanako/hangman421.git~
+3.Type: git clone followed by the following url: `https://github.com/blaiseUbanako/hangman421.git`
 
 4.Once successfully cloned, open visual studio code
 
